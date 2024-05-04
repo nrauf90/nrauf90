@@ -1,4 +1,10 @@
-### Hi there 👋
+👋 Hi there! I'm Muhammad Noman Rauf, a seasoned IT development professional with over 10 years of experience in the full software development lifecycle. Throughout my career, I've specialized in crafting next-generation applications and customizable solutions, leveraging a diverse skill set in various technologies and programming languages.
+
+🚀 My expertise lies in strategic planning, performance management, and team leadership, ensuring successful project outcomes and driving process improvements. As a full stack developer, I've worked extensively with PHP frameworks, WordPress, Magento 2, and a range of frontend technologies including Angular, React, and JavaScript.
+
+💼 Currently, I serve as a Web Development Consultant at Right Choice Group in Abu Dhabi, UAE, where I focus on building and maintaining WordPress portals while collaborating with stakeholders to translate business requirements into technical solutions. Previously, I've held roles as a Sr. Magento Consultant, Sr. Full Stack Web Developer, and Remote Sr. Magento Consultant, gaining valuable experience in leading development teams and delivering high-quality solutions.
+
+🌐 Connect with me on LinkedIn to learn more about my professional journey and explore potential collaborations. Let's innovate and build together! 💻✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nomanrauf) 
